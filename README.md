@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Ali Abdulbaqi 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+## I'm a PHP and laravel back-end developer 
+
+- 👨‍💻 I’m currently working on web development technologies like PHP, Laravel, Javascript etc.
+- 📚 I’m currently learning everything about Backend technologies and some about Frontend Technologies 😅
+- 💪🏼 Future Goals: become a senior laravel developer as fast as I can - Never stop creating new ideas.
+- ⚡ Fun fact: I love to Reading and Solving Problem.
+
+---
 <!--
 **aliabdulbaqi01/aliabdulbaqi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+ ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+ 
+---
+
+
+[website]: http://bilgehangecici.site/
+[instagram]: https://www.instagram.com/bilgehangecici
+[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
